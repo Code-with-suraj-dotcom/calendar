@@ -2,7 +2,7 @@
 
 A premium, interactive React wall calendar built as a Frontend Engineering challenge. This project focuses on modern skeuomorphism, smooth micro-interactions, and a tactile "paper-on-wall" user experience.
 
-
+**✨ Live Demo:** [https://calendar-eosin-pi.vercel.app/](https://calendar-eosin-pi.vercel.app/)
 
 ## 🌟 The Vision & Design Choices
 
@@ -50,11 +50,5 @@ Unlike standard admin dashboard calendars, this project was built with a **"Phys
     ```bash
     npm run dev
 
-📜 Assignment Requirements Met
-    [x] High-fidelity UI/UX and visual aesthetic.
-    [x] Smooth month-to-month transitions.
-    [x] Range selection with visual connectivity.
-    [x] Responsive design for Mobile and Desktop.
-    [x] Integrated notes/memo system.
 
 Developed with ❤️ by [Suraj Lakhyani]
