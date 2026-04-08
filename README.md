@@ -41,3 +41,20 @@ Unlike standard admin dashboard calendars, this project was built with a **"Phys
    ```bash
    git clone [Your-Repo-Link]
    cd wall-calendar-challenge
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Start the development server:
+    ```bash
+    npm run dev
+
+📜 Assignment Requirements Met
+    [x] High-fidelity UI/UX and visual aesthetic.
+    [x] Smooth month-to-month transitions.
+    [x] Range selection with visual connectivity.
+    [x] Responsive design for Mobile and Desktop.
+    [x] Integrated notes/memo system.
+
+Developed with ❤️ by [Suraj Lakhyani]
